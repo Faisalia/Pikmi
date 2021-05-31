@@ -1,0 +1,139 @@
+body{
+    font-family: Helvetica;
+    margin:0px ;
+    padding:0px ;
+    background : #c6a3c9;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: ghostwhite;
+}
+
+ul img{
+    margin-right:10px;
+    width:14px;
+    height:14px;
+}
+
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    width:192px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: gray;
+    width:192px;
+}
+
+.column {
+    float: left;
+    width: 280px;
+    padding: 0 10px;
+}
+
+.row {
+    margin-top:20px;
+    margin-left: 100px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    text-align: center;
+}
+  
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+.card-member{
+    width: 250px;
+    height: 350px;
+    background : #fff;
+    border-radius: 6px;
+    box-shadow: 0px 1px 10px 1px #000;   
+    overflow: hidden;
+    display: inline-block
+}
+
+.card-member:hover .upper-card{
+    height: 175px;
+    background: #8644b8;
+}
+.upper-card{
+    height: 175px;
+    background: #A858E7;
+}
+
+.lower-card{
+    margin-top: 15px;
+    margin-bottom: 40px;
+    height: 175px;
+    background: ghostwhite;
+    text-align: center;
+    line-height: 10px;  
+}
+
+.image-container{
+    transform: translate(0, 25px);
+    margin: auto;
+    background: ghostwhite;
+    width: 125px;
+    height: 125px;
+    border-radius : 50%;
+    padding: 3px;
+}
+
+.image-container img{
+    width: 125px;
+    height: 125px;
+    border-radius : 50%;
+}
+
+.lower-card .linestrike{
+    border-top: 1px solid grey;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.lower-card h4{
+    margin-bottom: 30px;
+}
+
+.lower-card .member-btn{
+    padding: 12px 12px;
+    background-color: #A858E7;
+    border:none;
+    color: ghostwhite;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.lower-card .member-btn:hover{
+    padding: 12px 12px;
+    background-color: #7c539b;
+    color: ghostwhite;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
