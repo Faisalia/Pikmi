@@ -1,0 +1,215 @@
+body{
+    font-family: Helvetica;
+    margin:0px ;
+    padding:0px ;
+    background : #c6a3c9;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: ghostwhite;
+}
+
+ul img{
+    margin-right:10px;
+    width:14px;
+    height:14px;
+}
+
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    width:195px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: gray;
+    width:195px;
+}
+
+.column1{
+    float: left;
+    width: 475px;
+    padding: 0 10px;
+}
+
+.column2{
+    float: left;
+    margin-top: 25px;
+    width: 525px;
+    padding: 0 10px;
+}
+
+.row {
+    margin-top:20px;
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+.profilepic-card{
+    width: 450px;
+    height: 250px;
+    background : #fff;
+    border-radius: 6px;
+    box-shadow: 0px 1px 10px 1px #000;   
+    overflow: hidden;
+    display: inline-block
+}
+
+.image-container img{
+    transform: translate(30px, 5px);
+    width: 200px;
+    height: 200px;
+    border-radius : 50%;
+    float : left;
+}
+
+.image-container .profilepictext{
+    line-height:5px;
+    transform: translate(20px, 80px);
+}
+
+.image-container h2,p{
+    text-align: center;
+}
+
+.image-container .strikeline{
+    border-top: 1px solid grey;
+    margin:auto;
+    width:35%;
+    text-align: center;
+}
+
+.profileinfo-card{
+    width: 650px;
+    height: 250px;
+    background : #fff;
+    border-radius: 6px;
+    box-shadow: 0px 1px 10px 1px #000;   
+    overflow: hidden;
+    display: inline-block
+}
+
+.profileinfo-card .textinfo1{
+    float: left;
+    margin-left:25px;
+    margin-top:8px;
+    line-height: 10px;
+}
+
+.profileinfo-card .textinfo2{
+    margin-top:23px;
+    line-height: 10px;
+}
+
+.profileinfo-card .textinfo2 .blankinfo{
+    margin-left:210px;
+    margin-top:11.5px;
+    width:400px;
+    height:20px;
+    background : gray;
+    opacity: 0.4;
+    border-radius : 5px;
+}
+
+.profileinfo-card .textinfo1 h4 {
+    width: 150px;
+    position: relative;
+    padding-right: 1px;
+}
+  
+.profileinfo-card .textinfo1 h4::after {
+    content: ":";
+    position: absolute;
+    right: 0px;
+}
+
+.profiledesc-card{
+    width: 500px;
+    height: 250px;
+    background : #fff;
+    border-radius: 6px;
+    box-shadow: 0px 1px 10px 1px #000;   
+    overflow: hidden;
+    display: inline-block
+}
+
+.profiledesc-card h2{
+    margin-left:25px;
+    margin-top:20px;
+}
+
+.profiledesc-card .descnya{
+    width: 450px;
+    height: 150px;
+    background : gray;
+    opacity: 0.4;
+    border-radius : 10px;
+    margin-left:25px;
+    margin-top:10px;
+    line-height: 10px;
+}
+
+.profiledesc-card p{
+    font-weight: bold;
+    transform: translate(0px,-100px);
+    color: black;
+}
+
+.profileportofolio-card{
+    width: 600px;
+    height: 250px;
+    background : #fff;
+    border-radius: 6px;
+    box-shadow: 0px 1px 10px 1px #000;   
+    overflow: hidden;
+    display: inline-block;
+    line-height:1px;
+}
+
+.profileportofolio-card p{
+    font-weight: bold;
+    transform: translate(0px,-35px);
+    margin:0;
+    color: black;
+}
+
+.profileportofolio-card h3{
+    margin-top:30px;
+    margin-left: 25px;
+}
+
+.profileportofolio-card .portonya{
+    margin-left: 25px;
+    width: 550px;
+    height: 70px;
+    background : gray;
+    opacity: 0.4;
+    border-radius : 10px;
+}
+
+.profileportofolio-card .komitmennya{
+    margin-left: 25px;
+    width: 550px;
+    height: 50px;
+    background : gray;
+    opacity: 0.4;
+    border-radius : 10px;
+}
