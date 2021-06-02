@@ -1,37 +1,55 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Pikmi!</title>
-</head>
-<body>
-	<header>
-		<h1>Pikmi!</h1>
-    </header>
-    
-    <ul class="nav nav-pills">
-        <li class="nav-item">
-            <a class="nav-link active" aria-current="" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="member.php">Member</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="profile.php">Profile</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Logout</a>
-        </li>
-    </ul>
-    
-    <header>
-        <h1>Pikmi!</h1>
-        <h2> Pikmi adalah suatu web aplikasi yang bertujuan membantu mahasiswa aktif IPB University untuk mencari rekan yang tepat dalam ajang Program Kreativitas Mahasiswa (PKM)</h2>
-    </header>
+<?= $this->extend('layout/template'); ?>
 
 
-	<div class="col-12">
-         <button type="submit" class="btn btn-primary" value="member" name="member"><i class="fa fa-plus"></i><span class="ms-2">Go To Member Page</span></button>
+<?= $this->section('content'); ?>
+
+<div class="row">
+    <div class="col">
+
+        <body>
+
+            <!-- welcome section -->
+            <section class="home" id="home">
+
+                <h1>Pikmi - Pick your Dreamteam here.</h1>
+                <p>Website yang tepat buat kamu yang lagi mencari kawan hebat.</p>
+
+
+                <div class="shape"></div>
+
+            </section>
+
+            <!-- Member section -->
+            <section class="Member" id="Member">
+                <img src="/img/team.svg" alt="">
+                <div class="content">
+                    <h3>Temukan Teman yang tepat</h3>
+                    <p>Kami mengerti bahwa dalam mengikuti sebuah kompetisi kita harus mempersiapkan yang terbaik, dan untuk menjadi yang terbaik, kita juga perlu membuat tim dengan komposisi terbaik, oleh karena itu, Pikmi akan membantu kamu mencari teman untuk berproses dan berjuang bersamamu.</p>
+                    <p style="font-style: italic;">"Talent win games, but teamwork win competition."</p>
+
+                </div>
+
+
+            </section>
+
+            <!-- Ide section -->
+            <section class="Ide" id="Ide">
+
+
+                <div class="content">
+                    <h3>Berkolaborasi dan Ciptakan Ide Hebat</h3>
+                    <p> Dunia saat ini dibangun dari ide-ide sederhana yang dieksekusi dengan tepat, Pikmi menyediakan platform yang tepat bagi kamu untuk mengajak teman lainnya dalam mewujudkan ide hebatmu </p>
+                    <p style="font-style: italic;">"No matter what people tell you, words and ideas can chnage the world."</p>
+
+                </div>
+                <img src="/img/Ide.svg" alt="">
+
+
+            </section>
+
+
     </div>
+</div>
 
-	</body>
-</html>
+
+<?= $this->endSection('content'); ?>
