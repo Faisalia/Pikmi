@@ -29,22 +29,17 @@ list dari ide-ide tim PKM. Pada laman ini, User dapat melihat sekilas deskripsi
 mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut. 
 
 ## Spesifikasi Lingkungan Pengambangan Aplikasi Pikmi!
+
 ### Software 
-- Server :
-  - Apache
+- Operating System (OS) :
+  - Windows 10
 
-- Database :
-  - MySQL
+- Text Editor :
+  - Ms Visual Studio Code
+  - Sublime Text
 
-- Frontend :
-  - HTML
-  - CSS
-  - JS
-  - ....
-
-- Backend :
-  - PHP
-  - ....
+- Framework	: 
+  - Laravel
 
 - UI/UX Design :
   - Figma
@@ -68,11 +63,29 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
   - storage xx
 
 ### Tech Stack 
-***ga ngerti gaes ini apa maksudnya***
+- Frontend :
+  - HTML
+  - CSS
+  - JS
+  - ....
 
+- Backend :
+  - PHP
+  - ....
+
+- Library	: 
+  - Bootstrap
+
+- Server :
+  - Apache
+
+- Database :
+  - MySQL
+ 
 ## Pembahasan dan Hasil
+
 ### Use Case Diagram
-![](buat_readme/use_case_diagram.jpg)
+![alt text](https://drive.google.com/file/d/11kSm-n1rxUAhNk_AWUoaIDg7N9ZDj68V/view?usp=sharing)
 
 ### Activity Diagram
 
@@ -81,15 +94,49 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 ### Entity Relationship Diagram (ERD)
 
 ### Arsitektur Sistem
-![](buat_readme/Arsitektur_Diagram_Pikmi.jpg)
 
 ### Fungsi Utama yang Dikembangkan
+- Fungsi List Idea :
+List Idea ini berfungsi sebagai perantara antara Tim PKM dan Anggota yang ingin bergabung
+kedalam Tim PKM tersebut. User dapat melihat ide-ide dari masing masing Tim PKM agar dapat
+menemukan Tim PKM impian mereka. User dapat membuat ide baru apabila ingin membuat 
+Tim PKM yang baru. Selain itu, user juga dapat mengupdate illustrasi ide pkm dan juga deskripsinya.
+
+- Fungsi List Member :
+List member dapat menjadi perantara bagi Tim PKM yang sedang mencari anggota yang tepat.
+Karena pada page ini, User dapat melihat informasi dari user lain. Informasi yang dapat
+dilihat seperti nama, nomor kontak, keahlian, portofolio, komitmen yang mereka dapat berikan,
+dan lain-lainnya. Sebagai User, User juga dapat mengupdate informasi dari akunnya.
 
 ### Fungsi CRUD
+- *Create* 
+Fungsi Create pada aplikasi *web based* Pikmi! ini terdapat pada fitur membuat ide.
+Ide dapat dibuat dengan cara menekan tombol buat ide, nantinya user akan memasukan informasi
+deskripsi dan juga illustrasi dari ide PKMnya tersebut. Selain fitur membuat ide, 
+fungsi create juga digunakan dalam proses pembuatan akun yang akan digunakan oleh user. 
+Semua data yang telah dibuat nantinya akan disimpan di dalam database.
+
+- *Read*
+Data-data dari database akan di fetch oleh aplikasi Pikmi! untuk ditampilkan ke user pada
+laman-laman Pikmi!. Seperti informasi terkait deskripsi dari ide-ide yang dibuat oleh
+User-user, informasi terkain profile user, dan lain-lainnya.
+
+- *Update*
+User dapat memperbarui informasi yang terdapat di laman profile mereka. User dapat memperbarui 
+informasi di laman profile mereka dengan menekan tombol Edit Profile. Selain itu, apabila
+user telah membuat ide untuk Tim PKMnya, mereka juga dapat memperbarui informasi-informasi
+dari ide PKMnya tersebut.
+
+- *Delete*
+Apabila User telah membuat ide untuk Tim PKM, mereka dapat membatalkan ide tersebut dengan
+cara menghapusnya. Apabila User menekan tombol Hapus Ide PKM, maka database akan menghapus 
+data Ide PKM yang telah user buat.
 
 ## Hasil Implementasi
+***Screenshot Pikmi!-nya nnti taro disini gaes***
 
 ## Testing Test Case (TC)
+
 ### Positive Cases
 
 ### Negative Cases
