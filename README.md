@@ -72,7 +72,7 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 
 ## Pembahasan dan Hasil
 ### Use Case Diagram
-![alt text](https://drive.google.com/file/d/1ppKoCJosZVMyESqXbbFKg74BtCNHwtXx/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/11kSm-n1rxUAhNk_AWUoaIDg7N9ZDj68V/view?usp=sharing)
 ### Activity Diagram
 
 ### Class Diagram
