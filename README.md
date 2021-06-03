@@ -1,4 +1,5 @@
 # Pikmi
+<img src="https://github.com/Faisalia/Pikmi/blob/main/pikmi/img/logo2.png" width="250" height="250">
 
 ## Anggota Kelompok :
 - Faisal Ibrahim Abusalam (G64190054)
@@ -11,6 +12,7 @@
   - UI/UX
 
 ## About Pikmi!
+<img align="left" src="https://github.com/Faisalia/Pikmi/blob/main/pikmi/img/logo1.png" width="350" height="350">
 Pikmi! adalah aplikasi berbasis web sebagai wadah yang ditujukan 
 untuk Mahasiswa IPB yang ingin berkarya dengan mengikuti 
 Pekan Kreativitas Mahasiswa atau lebih sering dikenal dengan sebutan PKM.
