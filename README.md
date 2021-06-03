@@ -72,7 +72,7 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 
 ## Pembahasan dan Hasil
 ### Use Case Diagram
-![alt text](https://github.com/Faisalia/Pikmi/tree/main/pembacaa/image.jpg)
+![alt text](https://github.com/Faisalia/Pikmi/tree/main/buat%20readme/Arsitektur Diagram Pikmi.jpg)
 
 ### Activity Diagram
 
