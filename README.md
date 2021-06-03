@@ -85,7 +85,7 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 ## Pembahasan dan Hasil
 
 ### Use Case Diagram
-![alt text](https://drive.google.com/file/d/11kSm-n1rxUAhNk_AWUoaIDg7N9ZDj68V/view?usp=sharing)
+![alt_text](buat_readme/use_case_diagram.jpg)
 
 ### Activity Diagram
 
@@ -94,6 +94,7 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 ### Entity Relationship Diagram (ERD)
 
 ### Arsitektur Sistem
+![alt text](buat_readme/Arsitektur_Diagram_Pikmi.jpg)
 
 ### Fungsi Utama yang Dikembangkan
 - Fungsi List Idea :
