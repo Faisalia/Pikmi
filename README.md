@@ -12,7 +12,7 @@
   - UI/UX
 
 ## About Pikmi!
-<img align="left" src="https://github.com/Faisalia/Pikmi/blob/main/pikmi/img/logo1.png" width="350" height="350">
+<img align="left" src="https://github.com/Faisalia/Pikmi/pikmi/img/logo1.png" width="350" height="350">
 Pikmi! adalah aplikasi berbasis web sebagai wadah yang ditujukan 
 untuk Mahasiswa IPB yang ingin berkarya dengan mengikuti 
 Pekan Kreativitas Mahasiswa atau lebih sering dikenal dengan sebutan PKM.
