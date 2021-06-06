@@ -144,26 +144,33 @@ data Ide PKM yang telah user buat.
 
 ### Positive Cases
 - login :
-  - berhasil
+  - berhasil -> masuk ke home
 
 - register akun :
-  - berhasil
+  - berhasil -> kembali ke login dan muncul notif "Pendaftaran Anda berhasil!"
   
-- input img :
-  - berhasil
+- input img di profil:
+  - berhasil -> masuk ke profile dan muncul notif berhasil
+
+- input img di idea:
+  - berhasil -> masuk ke idea dan muncul notif berhasil
 
 ### Negative Cases
 - login :
-  - salah
-  - tidak pakai email
+  - salah -> kembali ke login dan muncul peringatan "Email atau password salah!"
+  - tidak pakai email -> tidak bisa login dan muncul peringatan bahwa input harus email
 
 - register akun :
-  - udah terdaftar
-  - tidak pakai email
+  - udah terdaftar -> kembali ke login dan muncul peringatan email sudah terdaftar
+  - tidak pakai email -> tidak bisa register dan muncul peringatan bahwa input harus email
   
 - input img :
-  - salah format file
-  - size image kegedean
+  - salah format file -> muncul peringatan format gambar tidak sesuai
+  - size image kegedean -> muncul peringatan ukuran gambar terlalu besar
 
 ## Saran Untuk Development Selanjutnya
-***apayagaes sarannya***
+1. Mwmbuat sistem yang membedakan admin dengan user
+2. Adakan fitur search dan filter berdasarkan jurusan atau fakultas
+3. Database untuk dosen
+4. Perbaikan dan pelihara frontend maupun backend nya
+5. Gunakan hosting dan domain berbayar
