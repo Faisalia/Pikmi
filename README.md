@@ -2,14 +2,14 @@
 <img src="https://github.com/Faisalia/Pikmi/blob/main/img/logo2.png" width="250" height="250">
 
 ## Anggota Kelompok :
-- Faisal Ibrahim Abusalam (G64190054)
-  - Backend
 - Muhammad Ezra Fathurrahman (G64190030)
   - Frontend
-- Rizal Mujahiddan (G64190069)
+- Faisal Ibrahim Abusalam (G64190054)
   - Backend
 - Wildan Fajri Alfarabi (G64190060)
   - UI/UX
+- Rizal Mujahiddan (G64190069)
+  - Backend
 
 ## About Pikmi!
 <img align="left" src="https://github.com/Faisalia/Pikmi/blob/main/img/logo1.png" width="350" height="350">
@@ -22,7 +22,8 @@ kelompok PKM yang mereka ingin ikuti. User juga dapat membuat profile yang
 dilengkapi dengan informasi terkait portofolio user, keahlian user, dan juga 
 seberapa besar komitmen yang mereka bisa berikan kepada kelompok PKM nya.
 Profile page tersebut berfungsi agar dapat mempermudah perekrutan kedalam
-tim PKM.
+tim PKM. Begitupun dalam mencari dosen yang bersedia untuk menjadi dosen pembimbing
+bagi tim yang berminat ikut PKM.
 
 Pikmi! juga menyediakan kontak yang dapat dihubungi oleh User apabila ada 
 pertanyaan yang ingin ditanyakan kepada Tim PKM yang telah dibuat oleh User lain.
@@ -39,6 +40,7 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 - Text Editor :
   - Ms Visual Studio Code
   - Sublime Text
+  - DBeaver
 
 - Framework	: 
   - Bootstrap
@@ -54,16 +56,11 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
   - AMD RYZEN 5
   - Ram 8 GB
   - GPU NVIDIA GEFORCE GTX
-  - ...
+  
 - Laptop Lenovo xx :
   - AMD xx
   - Ram xx
   - GPU xx
-  - ...
-- Redmi Note x :
-  - Qualcom xx
-  - RAM xx
-  - storage xx
 
 ### Tech Stack 
 - Frontend :
