@@ -138,17 +138,16 @@ cara menghapusnya. Apabila User menekan tombol Hapus Ide PKM, maka database akan
 data Ide PKM yang telah user buat.
 
 ## Hasil Implementasi
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(1).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(2).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(3).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(4).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(5).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(6).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(7).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(8).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(9).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(10).png" width=70>
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(11).png" width=70>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(1).png" width=250> <img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(2).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(3).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(4).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(5).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(6).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(7).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(8).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(9).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(10).png" width=250>
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/2021-06-07%20(11).png" width=250>
 
 ## Testing Test Case (TC)
 
