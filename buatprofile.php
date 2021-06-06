@@ -64,7 +64,7 @@
 <form action="profiles.php" method="POST" enctype="multipart/form-data">
     <input type="hidden" for="email" name="email" value="<?= $email; ?>">
     <div class="col-12">
-            <label for=foto">Foto Profil</label>
+            <label for="foto">Foto Profil</label>
             <input type="file" name="foto" id="foto"  placeholder="">
             <br><br><a>format: jpg, jpeg, png | size max: 3 MB</a><br>
     </div><br>
