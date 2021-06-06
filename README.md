@@ -1,5 +1,5 @@
 # Pikmi
-<img src="https://github.com/Faisalia/Pikmi/blob/main/pikmi/img/logo2.png" width="250" height="250">
+<img src="https://github.com/Faisalia/Pikmi/img/logo2.png" width="250" height="250">
 
 ## Anggota Kelompok :
 - Faisal Ibrahim Abusalam (G64190054)
