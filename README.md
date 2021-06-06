@@ -143,8 +143,27 @@ data Ide PKM yang telah user buat.
 ## Testing Test Case (TC)
 
 ### Positive Cases
+- login :
+  - berhasil
+
+- register akun :
+  - berhasil
+  
+- input img :
+  - berhasil
 
 ### Negative Cases
+- login :
+  - salah
+  - tidak pakai email
+
+- register akun :
+  - udah terdaftar
+  - tidak pakai email
+  
+- input img :
+  - salah format file
+  - size image kegedean
 
 ## Saran Untuk Development Selanjutnya
 ***apayagaes sarannya***
