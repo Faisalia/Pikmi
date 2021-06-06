@@ -69,7 +69,7 @@
     <div class="kanan" id="kanan">
     <form action="idea.php" method="POST" enctype="multipart/form-data">
                     <div class="col-12">
-                        <label for=poster">Poster</label>
+                        <label for="poster">Poster</label>
                         <input type="file" name="poster" id="poster"  placeholder="">
                         <br><br><a>format: jpg, jpeg, png | size max: 3 MB</a><br>
                     </div><br>
