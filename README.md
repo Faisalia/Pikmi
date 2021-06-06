@@ -41,7 +41,8 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
   - Sublime Text
 
 - Framework	: 
-  - Laravel
+  - Bootstrap
+  - CodeIgniter
 
 - UI/UX Design :
   - Figma
@@ -49,10 +50,10 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
   - Adobe Photoshop
 
 ### Hardware 
-- Laptop Asus xx :
-  - Intel xx
-  - Ram xx
-  - GPU xx
+- Laptop Asus TUF A15 :
+  - AMD RYZEN 5
+  - Ram 8 GB
+  - GPU NVIDIA GEFORCE GTX
   - ...
 - Laptop Lenovo xx :
   - AMD xx
@@ -69,11 +70,9 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
   - HTML
   - CSS
   - JS
-  - ....
 
 - Backend :
   - PHP
-  - ....
 
 - Library	: 
   - Bootstrap
@@ -90,10 +89,13 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 <img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/buat_readme/use_case_diagram.jpg" width=400 height=400>
 
 ### Activity Diagram
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/Pikmi%20Activity%20Diagram.png" width=570 height=725>
 
 ### Class Diagram
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/Pikmi%20Class%20Diagram%20(1).png">
 
 ### Entity Relationship Diagram (ERD)
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/proyekRPL.jpg">
 
 ### Arsitektur Sistem
 ![alt text](buat_readme/Arsitektur_Diagram_Pikmi.jpg)
