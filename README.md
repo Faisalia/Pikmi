@@ -77,9 +77,11 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 
 - Server :
   - Apache
+  - Heroku
 
 - Database :
   - MySQL
+  - RemoteMySQL
  
 ## Pembahasan dan Hasil
 
