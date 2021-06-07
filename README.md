@@ -178,7 +178,7 @@ data Ide PKM yang telah user buat.
   - size image kegedean -> muncul peringatan ukuran gambar terlalu besar
 
 ## Saran Untuk Development Selanjutnya
-1. Mwmbuat sistem yang membedakan admin dengan user
+1. Membuat sistem yang membedakan admin dengan user
 2. Adakan fitur search dan filter berdasarkan jurusan atau fakultas
 3. Database untuk dosen
 4. Perbaikan dan pelihara frontend maupun backend nya
