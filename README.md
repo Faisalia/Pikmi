@@ -56,11 +56,6 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
   - AMD RYZEN 5
   - Ram 8 GB
   - GPU NVIDIA GEFORCE GTX
-  
-- Laptop Lenovo xx :
-  - AMD xx
-  - Ram xx
-  - GPU xx
 
 - Laptop Asus Vivobook 14 :
   - AMD RYZEN 5
