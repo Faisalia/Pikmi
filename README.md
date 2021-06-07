@@ -62,6 +62,12 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
   - Ram xx
   - GPU xx
 
+- Laptop Asus Vivobook 14 :
+  - AMD RYZEN 5
+  - Ram 8 GB
+  - GPU Radeon Vega Mobile
+  
+
 ### Tech Stack 
 - Frontend :
   - HTML
