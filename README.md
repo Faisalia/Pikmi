@@ -95,7 +95,7 @@ mengenai ide PKM, tema PKM, dan juga illustrasi dari tim PKM tersebut.
 <img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/Pikmi%20Class%20Diagram%20(1).png">
 
 ### Entity Relationship Diagram (ERD)
-<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/proyekRPL.jpg">
+<img align="center" src="https://github.com/Faisalia/Pikmi/blob/main/img/proyekRPL.jpg" width =500 height=600>
 
 ### Arsitektur Sistem
 ![alt text](buat_readme/Arsitektur_Diagram_Pikmi.jpg)
